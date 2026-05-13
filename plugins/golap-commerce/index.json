@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "golap-commerce",
+  "name": "goLaPress Commerce",
+  "summary": "Commerce plugin for goLaPress.",
+  "latest_version": "0.2.0",
+  "releases": [
+    {
+      "version": "0.2.0",
+      "channel": "stable",
+      "released_at": "2026-05-14T00:00:00Z",
+      "min_core_version": "0.1.8",
+      "max_core_version": "",
+      "changelog_url": "https://github.com/darkgreenev/golap-commerce/releases/tag/v0.2.0",
+      "packages": [
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "url": "https://example.com/golap-commerce-linux-amd64.zip",
+          "sha256": "REPLACE_ME"
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "url": "https://example.com/golap-commerce-linux-arm64.zip",
+          "sha256": "REPLACE_ME"
+        }
+      ]
+    }
+  ]
+}
