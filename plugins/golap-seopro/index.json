@@ -11,19 +11,19 @@
       "released_at": "2026-05-14T00:00:00Z",
       "min_core_version": "0.1.8",
       "max_core_version": "",
-      "changelog_url": "https://github.com/darkgreenev/golap-seopro/releases/tag/v0.1.0",
+      "changelog_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.1.0/changelog.md",
       "packages": [
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://example.com/golap-seopro-linux-amd64.zip",
-          "sha256": "REPLACE_ME"
+          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.1.0/golap-seopro-linux-amd64.zip",
+          "sha256": "ec0cefaeef8f8b4f2308abfcf82e54317cac9658eccd547c8ccde7a89106cf41"
         },
         {
           "os": "linux",
           "arch": "arm64",
-          "url": "https://example.com/golap-seopro-linux-arm64.zip",
-          "sha256": "REPLACE_ME"
+          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.1.0/golap-seopro-linux-arm64.zip",
+          "sha256": "8ece1447cbb8e5b4c8fa5f808c1b88c05615bf4f305328bde774be469339051e"
         }
       ]
     }

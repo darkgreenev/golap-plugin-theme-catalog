@@ -1,0 +1,2 @@
+ec0cefaeef8f8b4f2308abfcf82e54317cac9658eccd547c8ccde7a89106cf41  golap-seopro-linux-amd64.zip
+8ece1447cbb8e5b4c8fa5f808c1b88c05615bf4f305328bde774be469339051e  golap-seopro-linux-arm64.zip
