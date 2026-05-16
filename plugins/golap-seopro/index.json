@@ -3,8 +3,30 @@
   "id": "golap-seopro",
   "name": "goLaPress SEO Pro",
   "summary": "Advanced SEO plugin for goLaPress.",
-  "latest_version": "0.2.0",
+  "latest_version": "0.3.0",
   "releases": [
+    {
+      "version": "0.3.0",
+      "channel": "stable",
+      "released_at": "2026-05-16T18:18:01Z",
+      "min_core_version": "0.1.40",
+      "max_core_version": "",
+      "changelog_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.0/changelog.md",
+      "packages": [
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.0/golap-seopro-linux-amd64.zip",
+          "sha256": "806d162daf5a8aa43b35a563da541b3937d81983a9195cc01f93e56563019767"
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.0/golap-seopro-linux-arm64.zip",
+          "sha256": "e0ca68fcab983ff288aa0ca91822eaa6acbaca748a040b8a74df4848980f5ae1"
+        }
+      ]
+    },
     {
       "version": "0.2.0",
       "channel": "stable",
