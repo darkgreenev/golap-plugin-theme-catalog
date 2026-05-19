@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-19T00:58:25Z",
+  "generated_at": "2026-05-19T21:01:40Z",
   "plugins": [
     {
       "id": "golap-commerce",
-      "name": "goLaPress Commerce",
-      "summary": "Commerce plugin for goLaPress.",
-      "latest_version": "0.2.3",
+      "name": "Golap Commerce",
+      "summary": "A comprehensive commerce solution for GolaPress.",
+      "latest_version": "0.2.4",
       "index_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-commerce/index.json"
     },
     {
       "id": "golap-seopro",
       "name": "goLaPress SEO Pro",
-      "summary": "Advanced SEO plugin for goLaPress.",
+      "summary": "Advanced SEO plugin for goLaPress with metadata controls, sitemap ownership, robots management, redirects, schema, breadcrumbs, and audits.",
       "latest_version": "0.3.0",
       "index_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/index.json"
     }

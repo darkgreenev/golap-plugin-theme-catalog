@@ -1,51 +1,30 @@
 {
   "schema_version": 1,
   "id": "golap-commerce",
-  "name": "goLaPress Commerce",
-  "summary": "Commerce plugin for goLaPress.",
-  "latest_version": "0.2.3",
+  "name": "Golap Commerce",
+  "summary": "A comprehensive commerce solution for GolaPress.",
+  "latest_version": "0.2.4",
   "releases": [
     {
-      "version": "0.2.3",
+      "version": "0.2.4",
       "channel": "stable",
-      "released_at": "2026-05-19T00:58:25Z",
-      "min_core_version": "0.1.8",
+      "released_at": "2026-05-19T20:43:25Z",
+      "min_core_version": "0.1.51",
       "max_core_version": "",
-      "changelog_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-commerce/versions/0.2.3/changelog.md",
+      "changelog_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-commerce/versions/0.2.4/changelog.md",
       "packages": [
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-commerce/versions/0.2.3/golap-commerce-linux-amd64.zip",
-          "sha256": "f931dd04ca32588d904aea0cf31f462b695dc268767e3ab6050b7e77b4908da9"
-        },
-        {
-          "os": "linux",
-          "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-commerce/versions/0.2.3/golap-commerce-linux-arm64.zip",
-          "sha256": "833ad2272707041b9d47ed3f6c5e022406f410a545821c6e8dbe1e3ee357c9dd"
+          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-commerce/versions/0.2.4/golap-commerce-linux-amd64.zip",
+          "sha256": "7f1862a52bf99ba2494863437f08ee561e557d5a708e1c3e84f035e27c08f7e1"
         }
-      ]
-    },
-    {
-      "version": "0.2.2",
-      "channel": "stable",
-      "released_at": "2026-05-14T00:00:00Z",
-      "min_core_version": "0.1.8",
-      "max_core_version": "",
-      "changelog_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-commerce/versions/0.2.2/changelog.md",
-      "packages": [
-        {
-          "os": "linux",
-          "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-commerce/versions/0.2.2/golap-commerce-linux-amd64.zip",
-          "sha256": "541143b51e90655bba726919fc29da16ec2a560642eaeb421cfb88516671de9e"
-        },
+,
         {
           "os": "linux",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-commerce/versions/0.2.2/golap-commerce-linux-arm64.zip",
-          "sha256": "50bf3507b909d37897d828e528a789e2822ec28ee4155e0a7679ee93875d6081"
+          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-commerce/versions/0.2.4/golap-commerce-linux-arm64.zip",
+          "sha256": "6543a30f36774411b520d3fd9803a3ad4b2b2ef4e120455838a46d1101a2eef8"
         }
       ]
     }
