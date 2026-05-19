@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-19T22:52:00Z",
+  "generated_at": "2026-05-19T00:58:25Z",
   "plugins": [
     {
       "id": "golap-commerce",
       "name": "goLaPress Commerce",
       "summary": "Commerce plugin for goLaPress.",
-      "latest_version": "0.2.2",
+      "latest_version": "0.2.3",
       "index_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-commerce/index.json"
     },
     {
