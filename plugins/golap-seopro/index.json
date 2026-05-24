@@ -3,28 +3,27 @@
   "id": "golap-seopro",
   "name": "goLaPress SEO Pro",
   "summary": "Advanced SEO plugin for goLaPress with metadata controls, sitemap ownership, robots management, redirects, schema, breadcrumbs, and audits.",
-  "latest_version": "0.3.0",
+  "latest_version": "0.3.1",
   "releases": [
     {
-      "version": "0.3.0",
+      "version": "0.3.1",
       "channel": "stable",
-      "released_at": "2026-05-19T20:19:52Z",
-      "min_core_version": "0.1.51",
+      "released_at": "2026-05-24T19:09:24Z",
+      "min_core_version": "0.1.58",
       "max_core_version": "",
-      "changelog_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.0/changelog.md",
+      "changelog_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.1/changelog.md",
       "packages": [
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.0/golap-seopro-linux-amd64.zip",
-          "sha256": "e78b49662a6a2b829501f4c50cd38a364efb24f548d179cc9ee7929883dcb665"
-        }
-,
+          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.1/golap-seopro-linux-amd64.zip",
+          "sha256": "8d5dee2122af40783c7d5522a7aba848a523a59b51c7ad193f82c531a6c31a93"
+        },
         {
           "os": "linux",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.0/golap-seopro-linux-arm64.zip",
-          "sha256": "ccde45051bca581b3a5e4a79b059360fc18fe2030702b1dcab45026693f43751"
+          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.1/golap-seopro-linux-arm64.zip",
+          "sha256": "96c7f6a571fbc9f0c4cbfa39bb8bace064aa17db980f820295e023ae287b31d4"
         }
       ]
     }

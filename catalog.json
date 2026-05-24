@@ -1,26 +1,26 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-22T22:31:00Z",
+  "generated_at": "2026-05-24T21:30:30Z",
   "plugins": [
     {
       "id": "golap-commerce",
       "name": "Golap Commerce",
       "summary": "A comprehensive commerce solution for GolaPress.",
-      "latest_version": "0.2.4",
+      "latest_version": "0.2.5",
       "index_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-commerce/index.json"
     },
     {
       "id": "golap-commerce-stripe",
       "name": "Golap Commerce Stripe",
       "summary": "Stripe Checkout gateway plugin for golap-commerce with hosted checkout, webhook verification, and Commerce callback handoff.",
-      "latest_version": "0.1.0",
+      "latest_version": "0.1.1",
       "index_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-commerce-stripe/index.json"
     },
     {
       "id": "golap-seopro",
       "name": "goLaPress SEO Pro",
       "summary": "Advanced SEO plugin for goLaPress with metadata controls, sitemap ownership, robots management, redirects, schema, breadcrumbs, and audits.",
-      "latest_version": "0.3.0",
+      "latest_version": "0.3.1",
       "index_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/index.json"
     }
   ],
