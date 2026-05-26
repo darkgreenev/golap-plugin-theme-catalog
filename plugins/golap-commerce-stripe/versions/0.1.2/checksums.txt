@@ -1,0 +1,2 @@
+7eeef2f7ebc8c874e81fa9973b046dabf272f83fab17bbf8ad1b4b357b36082b  golap-commerce-stripe-linux-amd64.zip
+23e96166d4b894b9f977586a6ce2b47aa567b7bf408b7bd7846c88dfc15677da  golap-commerce-stripe-linux-arm64.zip

@@ -3,27 +3,27 @@
   "id": "golap-seopro",
   "name": "goLaPress SEO Pro",
   "summary": "Advanced SEO plugin for goLaPress with metadata controls, sitemap ownership, robots management, redirects, schema, breadcrumbs, and audits.",
-  "latest_version": "0.3.1",
+  "latest_version": "0.3.2",
   "releases": [
     {
-      "version": "0.3.1",
+      "version": "0.3.2",
       "channel": "stable",
-      "released_at": "2026-05-24T19:09:24Z",
-      "min_core_version": "0.1.58",
+      "released_at": "2026-05-26T13:21:04Z",
+      "min_core_version": "0.1.59",
       "max_core_version": "",
-      "changelog_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.1/changelog.md",
+      "changelog_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.2/changelog.md",
       "packages": [
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.1/golap-seopro-linux-amd64.zip",
-          "sha256": "8d5dee2122af40783c7d5522a7aba848a523a59b51c7ad193f82c531a6c31a93"
+          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.2/golap-seopro-linux-amd64.zip",
+          "sha256": "d36aa6c4011baaf4bb98e510c8fa186dddfc2c3ca20665c43f6c023cc15cc61a"
         },
         {
           "os": "linux",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.1/golap-seopro-linux-arm64.zip",
-          "sha256": "96c7f6a571fbc9f0c4cbfa39bb8bace064aa17db980f820295e023ae287b31d4"
+          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.2/golap-seopro-linux-arm64.zip",
+          "sha256": "8f0a64e9c530c2805c2672990bf4c8f26b3a682369a150218bebf28514f08185"
         }
       ]
     }

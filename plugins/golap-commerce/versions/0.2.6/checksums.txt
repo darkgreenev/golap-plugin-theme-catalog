@@ -1,0 +1,2 @@
+fb998273468755a34effb0b066a6ffde4347140c93c3fd36032efe014be80dd9  golap-commerce-linux-amd64.zip
+6ef99a461aaaba62e27ef99fadb241813f18fc98d1ca4efdaf2249ffad569230  golap-commerce-linux-arm64.zip
