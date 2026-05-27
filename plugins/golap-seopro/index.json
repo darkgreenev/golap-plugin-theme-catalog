@@ -3,27 +3,27 @@
   "id": "golap-seopro",
   "name": "goLaPress SEO Pro",
   "summary": "Advanced SEO plugin for goLaPress with metadata controls, sitemap ownership, robots management, redirects, schema, breadcrumbs, and audits.",
-  "latest_version": "0.3.2",
+  "latest_version": "0.3.3",
   "releases": [
     {
-      "version": "0.3.2",
+      "version": "0.3.3",
       "channel": "stable",
-      "released_at": "2026-05-26T13:21:04Z",
-      "min_core_version": "0.1.59",
+      "released_at": "2026-05-27T20:29:13Z",
+      "min_core_version": "0.1.61",
       "max_core_version": "",
-      "changelog_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.2/changelog.md",
+      "changelog_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.3/changelog.md",
       "packages": [
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.2/golap-seopro-linux-amd64.zip",
-          "sha256": "d36aa6c4011baaf4bb98e510c8fa186dddfc2c3ca20665c43f6c023cc15cc61a"
+          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.3/golap-seopro-linux-amd64.zip",
+          "sha256": "31c0a58762c23b5daf0bab5fc1435760c820df6cb6ccf3eec106750e4717a320"
         },
         {
           "os": "linux",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.2/golap-seopro-linux-arm64.zip",
-          "sha256": "8f0a64e9c530c2805c2672990bf4c8f26b3a682369a150218bebf28514f08185"
+          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.3/golap-seopro-linux-arm64.zip",
+          "sha256": "da446d362e10bd80af9e18bbdfb938f47e04911400398b4365fac4b6f9ce333a"
         }
       ]
     }
