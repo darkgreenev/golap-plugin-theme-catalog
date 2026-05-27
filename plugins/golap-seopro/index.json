@@ -3,27 +3,27 @@
   "id": "golap-seopro",
   "name": "goLaPress SEO Pro",
   "summary": "Advanced SEO plugin for goLaPress with metadata controls, sitemap ownership, robots management, redirects, schema, breadcrumbs, and audits.",
-  "latest_version": "0.3.3",
+  "latest_version": "0.3.4",
   "releases": [
     {
-      "version": "0.3.3",
+      "version": "0.3.4",
       "channel": "stable",
-      "released_at": "2026-05-27T20:29:13Z",
-      "min_core_version": "0.1.61",
+      "released_at": "2026-05-27T21:18:13Z",
+      "min_core_version": "0.1.62",
       "max_core_version": "",
-      "changelog_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.3/changelog.md",
+      "changelog_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.4/changelog.md",
       "packages": [
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.3/golap-seopro-linux-amd64.zip",
-          "sha256": "31c0a58762c23b5daf0bab5fc1435760c820df6cb6ccf3eec106750e4717a320"
+          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.4/golap-seopro-linux-amd64.zip",
+          "sha256": "17ad085a686147f9aa2eea94717db9256f146f87c8fdbc9a410ab88ca8bc0b97"
         },
         {
           "os": "linux",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.3/golap-seopro-linux-arm64.zip",
-          "sha256": "da446d362e10bd80af9e18bbdfb938f47e04911400398b4365fac4b6f9ce333a"
+          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.4/golap-seopro-linux-arm64.zip",
+          "sha256": "e655c71debb45c6dea626afd1cfd9cbe049f7002365a200f5b4f0f849dd972f4"
         }
       ]
     }
