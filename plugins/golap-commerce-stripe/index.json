@@ -3,27 +3,27 @@
   "id": "golap-commerce-stripe",
   "name": "Golap Commerce Stripe",
   "summary": "Stripe Checkout gateway plugin for golap-commerce with hosted checkout, webhook verification, and Commerce callback handoff.",
-  "latest_version": "0.1.4",
+  "latest_version": "0.1.5",
   "releases": [
     {
-      "version": "0.1.4",
+      "version": "0.1.5",
       "channel": "stable",
-      "released_at": "2026-05-27T21:18:13Z",
-      "min_core_version": "0.1.62",
+      "released_at": "2026-05-29T17:53:28Z",
+      "min_core_version": "0.1.67",
       "max_core_version": "",
-      "changelog_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-commerce-stripe/versions/0.1.4/changelog.md",
+      "changelog_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-commerce-stripe/versions/0.1.5/changelog.md",
       "packages": [
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-commerce-stripe/versions/0.1.4/golap-commerce-stripe-linux-amd64.zip",
-          "sha256": "8078612f2a94115b4052b7ec5b4e961401049357797b4a27f6743bad2a8f5ac2"
+          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-commerce-stripe/versions/0.1.5/golap-commerce-stripe-linux-amd64.zip",
+          "sha256": "0d44860b0f34b12c741fbeaf6abb70045bccd729fd8c826d28ebfd6c4725aa75"
         },
         {
           "os": "linux",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-commerce-stripe/versions/0.1.4/golap-commerce-stripe-linux-arm64.zip",
-          "sha256": "3db4b1b12f9e186a50ca0d60f585c58370d0069aafcdb74d022d3b7a8928774f"
+          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-commerce-stripe/versions/0.1.5/golap-commerce-stripe-linux-arm64.zip",
+          "sha256": "c6514afc4cddcb72cb990302e3b87e454e4bf355486f77b9b8fff96d8e6f9939"
         }
       ]
     }
