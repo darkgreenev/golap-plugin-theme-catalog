@@ -3,27 +3,27 @@
   "id": "golap-seopro",
   "name": "goLaPress SEO Pro",
   "summary": "Advanced SEO plugin for goLaPress with metadata controls, sitemap ownership, robots management, redirects, schema, breadcrumbs, and audits.",
-  "latest_version": "0.3.5",
+  "latest_version": "0.3.6",
   "releases": [
     {
-      "version": "0.3.5",
+      "version": "0.3.6",
       "channel": "stable",
-      "released_at": "2026-05-29T17:53:28Z",
-      "min_core_version": "0.1.67",
+      "released_at": "2026-05-31T14:53:24Z",
+      "min_core_version": "0.1.68",
       "max_core_version": "",
-      "changelog_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.5/changelog.md",
+      "changelog_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.6/changelog.md",
       "packages": [
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.5/golap-seopro-linux-amd64.zip",
-          "sha256": "aa8275079a5304a19440dfb923e1daaf11a17cd8c70cea31e5722d7f2e59b24a"
+          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.6/golap-seopro-linux-amd64.zip",
+          "sha256": "01abbba139c37e6170118331160f0e5070d7627c695c3eef30df7335539b3100"
         },
         {
           "os": "linux",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.5/golap-seopro-linux-arm64.zip",
-          "sha256": "7a89816616fed55ca10369ff4957f9df53b38ddba3a345e1c76e1985493c4026"
+          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.6/golap-seopro-linux-arm64.zip",
+          "sha256": "a01c4584e81c636f121acd461ae75c28759760aa31fd22bae9f01aff1d592a9b"
         }
       ]
     }
