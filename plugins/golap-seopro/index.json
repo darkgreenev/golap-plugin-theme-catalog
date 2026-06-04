@@ -3,27 +3,27 @@
   "id": "golap-seopro",
   "name": "goLaPress SEO Pro",
   "summary": "Advanced SEO plugin for goLaPress with metadata controls, sitemap ownership, robots management, redirects, schema, breadcrumbs, and audits.",
-  "latest_version": "0.3.6",
+  "latest_version": "0.3.7",
   "releases": [
     {
-      "version": "0.3.6",
+      "version": "0.3.7",
       "channel": "stable",
-      "released_at": "2026-05-31T14:53:24Z",
-      "min_core_version": "0.1.68",
+      "released_at": "2026-06-04T23:36:07Z",
+      "min_core_version": "0.1.85",
       "max_core_version": "",
-      "changelog_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.6/changelog.md",
+      "changelog_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.7/changelog.md",
       "packages": [
         {
           "os": "linux",
           "arch": "amd64",
-          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.6/golap-seopro-linux-amd64.zip",
-          "sha256": "01abbba139c37e6170118331160f0e5070d7627c695c3eef30df7335539b3100"
+          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.7/golap-seopro-linux-amd64.zip",
+          "sha256": "3fb95da4c3c93de14c8f4a4b19754559977a753cb94022f3e5e0981f876fbae7"
         },
         {
           "os": "linux",
           "arch": "arm64",
-          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.6/golap-seopro-linux-arm64.zip",
-          "sha256": "a01c4584e81c636f121acd461ae75c28759760aa31fd22bae9f01aff1d592a9b"
+          "url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/versions/0.3.7/golap-seopro-linux-arm64.zip",
+          "sha256": "34d54fbdc506481c5fe5a4cac449a7176be2b3ebbedb09e7329159bd978b3f82"
         }
       ]
     }
