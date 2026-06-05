@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-04T23:36:07Z",
+  "generated_at": "2026-06-05T11:43:59Z",
   "plugins": [
     {
       "id": "golap-commerce",
@@ -20,7 +20,7 @@
       "id": "golap-seopro",
       "name": "goLaPress SEO Pro",
       "summary": "Advanced SEO plugin for goLaPress with metadata controls, sitemap ownership, robots management, redirects, schema, breadcrumbs, and audits.",
-      "latest_version": "0.3.7",
+      "latest_version": "0.3.8",
       "index_url": "https://raw.githubusercontent.com/darkgreenev/golap-plugin-theme-catalog/main/plugins/golap-seopro/index.json"
     }
   ],
